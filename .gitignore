@@ -3,3 +3,9 @@ bin/
 lib/
 
 *.properties
+
+## IntelliJ ##
+.idea/
+out/
+course-jdbc.iml
+
